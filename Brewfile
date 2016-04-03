@@ -7,8 +7,10 @@ brew mas
 tap caskroom/cask
 cask alfred
 cask flux
+cask gitkraken
 cask java
 cask slack
+cask virtualbox
 
 tap rcmdnk/file
 brew brew-file
@@ -68,6 +70,7 @@ brew sphinx-doc
 brew sqlite
 brew the_silver_searcher
 brew tmux
+brew tree
 brew typesafe-activator
 brew wget
 brew xz
