@@ -9,6 +9,7 @@ cask alfred
 cask flux
 cask gitkraken
 cask java
+cask skype
 cask slack
 cask virtualbox
 
