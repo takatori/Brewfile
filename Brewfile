@@ -17,6 +17,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew ansible
 brew atk
 brew cairo
 brew cmake
@@ -53,6 +54,7 @@ brew libressl
 brew libtiff
 brew libusb
 brew libusb-compat
+brew libyaml
 brew makedepend
 brew mysql
 brew nginx
