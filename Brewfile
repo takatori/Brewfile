@@ -11,6 +11,7 @@ cask gitkraken
 cask java
 cask skype
 cask slack
+cask vagrant
 cask virtualbox
 
 tap rcmdnk/file
@@ -72,6 +73,7 @@ brew scala
 brew sphinx-doc
 brew sqlite
 brew the_silver_searcher
+brew tig
 brew tmux
 brew tree
 brew typesafe-activator
