@@ -19,6 +19,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew ansible
 brew atk
 brew boost
 brew cairo
@@ -58,6 +59,7 @@ brew libressl
 brew libtiff
 brew libusb
 brew libusb-compat
+brew libyaml
 brew makedepend
 brew mongodb
 brew mysql
