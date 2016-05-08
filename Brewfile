@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 cask alfred
+cask dropbox
 cask flux
 cask gitkraken
 cask java
@@ -19,6 +20,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew atk
+brew boost
 brew cairo
 brew cmake
 brew direnv
@@ -30,8 +32,10 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gibo
+brew git
 brew glib
 brew gnupg2
+brew go
 brew gobject-introspection
 brew gpg-agent
 brew gpgme
@@ -55,6 +59,7 @@ brew libtiff
 brew libusb
 brew libusb-compat
 brew makedepend
+brew mongodb
 brew mysql
 brew nginx
 brew openssl
@@ -68,6 +73,7 @@ brew python
 brew readline
 brew sbt
 brew scala
+brew scons
 brew sphinx-doc
 brew sqlite
 brew the_silver_searcher
