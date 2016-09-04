@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask alfred
 cask betterzipql
+cask dropbox
 cask flux
 cask gitkraken
 cask google-drive
@@ -25,6 +26,7 @@ brew ansible
 brew atk
 brew autoconf
 brew awscli
+brew boost
 brew cairo
 brew cmake
 brew cpanminus
@@ -39,6 +41,7 @@ brew gettext
 brew ghq
 brew gibo
 brew git-secrets
+brew git
 brew glib
 brew gnupg
 brew gnupg2
@@ -90,6 +93,7 @@ brew reattach-to-user-namespace
 brew ruby-build
 brew sbt
 brew scala
+brew scons
 brew sphinx-doc
 brew sqlite
 brew swagger-codegen
