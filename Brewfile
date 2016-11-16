@@ -2,31 +2,20 @@
 # tap repositories and their packages
 
 tap argon/mas
-brew mas
 
 tap caskroom/cask
-cask alfred
-cask betterzipql
-cask dropbox
-cask flux
-cask gitkraken
-cask google-drive
-cask java
-cask mysqlworkbench
-cask qlmarkdown
-cask quicklook-json
-cask skitch
-cask skype
-cask slack
-cask vagrant
-cask virtualbox
 
 tap homebrew/core
+
+tap rcmdnk/file
+
+# Other Homebrew packages
 brew ansible
 brew atk
 brew autoconf
 brew awscli
 brew boost
+brew brew-file
 brew cairo
 brew cmake
 brew cpanminus
@@ -40,8 +29,8 @@ brew gdk-pixbuf
 brew gettext
 brew ghq
 brew gibo
-brew git-secrets
 brew git
+brew git-secrets
 brew glib
 brew gnupg
 brew gnupg2
@@ -49,10 +38,12 @@ brew go
 brew gobject-introspection
 brew gpg-agent
 brew gpgme
+brew gradle
 brew graphite2
 brew gtk+
 brew harfbuzz
 brew hicolor-icon-theme
+brew hugo
 brew icu4c
 brew imagemagick
 brew jasper
@@ -69,10 +60,11 @@ brew libpng
 brew libressl
 brew libtiff
 brew libtool
-brew libusb-compat
 brew libusb
+brew libusb-compat
 brew libyaml
 brew makedepend
+brew mas
 brew mongodb
 brew mysql
 brew nginx
@@ -106,10 +98,22 @@ brew wget
 brew xz
 brew zsh
 
-tap rcmdnk/file
-brew brew-file
-
 # Cask applications
+cask alfred
+cask betterzipql
+cask dropbox
+cask flux
+cask gitkraken
+cask google-drive
+cask java
+cask mysqlworkbench
+cask qlmarkdown
+cask quicklook-json
+cask skitch
+cask skype
+cask slack
+cask vagrant
+cask virtualbox
 cask terraform
 
 # App Store applications
